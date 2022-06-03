@@ -7,6 +7,6 @@
 ### Train / Test split based on Murcko Scaffold clustering
 
 
-**"INPUT/ * . * "**   Input datasets 
+**"Input/ * . * "**   Input datasets 
 
-**"OUTPUT/ * . * "**  Generated files and results of screening 
+**"Output/ * . * "**  Generated files and results of screening 
