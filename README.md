@@ -5,7 +5,7 @@
 ### ML features: Morgan fingerprints (2048 bit vector)
 ### Training / Testing split based on Murcko Scaffold clustering
 
-### Chemical bias controlled with AVE script (to be done soon)
+### Chemical bias controlled with AVE script *(to be done soon)*
 
 
 **"Input/ * . * "**   Input datasets 
