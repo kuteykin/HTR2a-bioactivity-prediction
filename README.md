@@ -1,10 +1,11 @@
-**project HT2a-bioactivity-prediction**
+**project HT2a-bioactivity-prediction** (in progress)
 # Prediction of bioactivity from chemical structure 
 ## Target: 5-HT2a receptor
 ## Bioactivity datasets from ChEMBL
 ### ML features: Morgan fingerprints (2048 bit vector)
-### Chemical bias controlled with AVE script
-### Train / Test split based on Murcko Scaffold clustering
+### Training / Testing split based on Murcko Scaffold clustering
+
+### Chemical bias controlled with AVE script (to be done soon)
 
 
 **"Input/ * . * "**   Input datasets 
